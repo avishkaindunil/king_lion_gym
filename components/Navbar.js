@@ -187,7 +187,7 @@ export default function Navbar() {
             </motion.div>
 
             <div className="mt-auto pb-8 flex gap-3 pt-6 border-t border-white/5">
-              <p className="text-[#444] text-xs">© 2024 King Lion Gym · Negombo, Sri Lanka</p>
+              <p className="text-[#444] text-xs">© 2024 King Lion Gym · Akuressa, Sri Lanka</p>
             </div>
           </motion.div>
         )}
