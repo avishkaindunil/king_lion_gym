@@ -112,4 +112,4 @@ Place your logo file at `public/images/logo.png` and update `components/Navbar.j
 
 ---
 
-Built with ❤️ for King Lion Gym, Negombo, Sri Lanka 🦁
+Built with ❤️ for King Lion Gym, Akuressa, Sri Lanka 🦁
