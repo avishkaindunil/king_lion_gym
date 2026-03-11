@@ -177,11 +177,11 @@ export default function Navbar() {
           {/* ── CTA ROW ── */}
           <div className="hidden md:flex items-center gap-2 flex-shrink-0 relative z-10">
             {/* Subtle "Call" link */}
-            <a href="tel:+94XXXXXXXXX"
-              className="font-manrope font-700 text-[10px] tracking-[0.14em] text-ghost hover:text-white transition-colors duration-300 px-3 py-2 uppercase hidden lg:block">
-              +94 XX XXX XXXX
-            </a>
-            <div className="w-px h-4 bg-white/[0.07] hidden lg:block" />
+            // <a href="tel:+94XXXXXXXXX"
+            //   className="font-manrope font-700 text-[10px] tracking-[0.14em] text-ghost hover:text-white transition-colors duration-300 px-3 py-2 uppercase hidden lg:block">
+            //   +94 XX XXX XXXX
+            // </a>
+            // <div className="w-px h-4 bg-white/[0.07] hidden lg:block" />
             {/* Join CTA — magnetic */}
             <Link href="/register">
               <MagneticBtn
