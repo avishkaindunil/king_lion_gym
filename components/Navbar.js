@@ -181,7 +181,7 @@ export default function Navbar() {
             //   className="font-manrope font-700 text-[10px] tracking-[0.14em] text-ghost hover:text-white transition-colors duration-300 px-3 py-2 uppercase hidden lg:block">
             //   +94 XX XXX XXXX
             // </a>
-            // <div className="w-px h-4 bg-white/[0.07] hidden lg:block" />
+            <div className="w-px h-4 bg-white/[0.07] hidden lg:block" />
             {/* Join CTA — magnetic */}
             <Link href="/register">
               <MagneticBtn
