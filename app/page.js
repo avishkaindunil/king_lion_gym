@@ -47,7 +47,7 @@ const TESTIMONIALS = [
   { name:'Nuwan Jayawardene', role:'Member since 2021', text:"The premium Hammer Strength machines are unmatched. I've achieved goals I never thought possible. This place changed everything for me." },
 ];
 
-const MARQUEE_WORDS = ['King Lion Gym','Strength','Power','Elite','Transform','Champion','Negombo','Sri Lanka','Excellence'];
+const MARQUEE_WORDS = ['King Lion Gym','Strength','Power','Elite','Transform','Champion','Akuressa','Sri Lanka','Excellence'];
 
 /* ── Marquee component ── */
 function Marquee({ words, className = '', speed = '' }) {
@@ -144,7 +144,7 @@ export default function Home() {
 
               {/* Sub */}
               <p className="text-soft font-medium text-lg max-w-md leading-relaxed mb-10">
-                Sri Lanka's most elite fitness destination — Negombo.
+                Sri Lanka's most elite fitness destination — Akuressa.
               </p>
 
               {/* CTAs */}
@@ -224,7 +224,7 @@ export default function Home() {
                       <Image src="/images/logo.jpg" alt="KLG" fill className="object-cover"/>
                     </div>
                     <div>
-                      <div className="font-bebas text-white text-lg tracking-wide leading-tight">#1 GYM IN<br/>NEGOMBO</div>
+                      <div className="font-bebas text-white text-lg tracking-wide leading-tight">#1 GYM IN<br/>AKURESSA</div>
                       <div className="flex items-center gap-1 mt-1">
                         {[...Array(5)].map((_,j)=><span key={j} className="text-[#C8102E] text-xs">★</span>)}
                         <span className="text-soft text-xs ml-1 font-semibold">5.0</span>
@@ -245,7 +245,7 @@ export default function Home() {
                 <span className="text-red-gradient">ARE BORN</span>
               </h2>
               <p className="text-soft font-medium leading-relaxed mb-5 text-[15px]">
-                Located in the heart of Negombo, Western Province, King Lion Gym was founded on one powerful belief — every person deserves access to world-class fitness. We refuse to compromise on quality.
+                Located in the heart of Akuressa, Western Province, King Lion Gym was founded on one powerful belief — every person deserves access to world-class fitness. We refuse to compromise on quality.
               </p>
               <p className="text-soft font-medium leading-relaxed mb-8 text-[15px]">
                 Our facility boasts an impressive lineup of premium Hammer Strength equipment — the same machines used by professional athletes worldwide. From the signature red machines to motivational murals of legendary champions, every element is designed to inspire peak performance.

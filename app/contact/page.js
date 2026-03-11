@@ -9,7 +9,7 @@ import AnimatedSection from '../../components/AnimatedSection';
 
 const EJS_SVC='YOUR_SERVICE_ID',EJS_TPL='YOUR_TEMPLATE_ID',EJS_KEY='YOUR_PUBLIC_KEY';
 const INFO=[
-  {Icon:HiOutlineLocationMarker,t:'Location',lines:['King Lion Gym','Negombo, Western Province, Sri Lanka']},
+  {Icon:HiOutlineLocationMarker,t:'Location',lines:['King Lion Gym','Akuressa, Southern Province, Sri Lanka']},
   {Icon:HiOutlinePhone,t:'Phone',lines:['+94 XX XXX XXXX']},
   {Icon:HiOutlineMail,t:'Email',lines:['info@kingliongym.lk']},
   {Icon:HiOutlineClock,t:'Hours',lines:['Mon–Fri: 5AM–11PM','Sat: 6AM–10PM','Sun: 7AM–9PM']},
@@ -143,7 +143,7 @@ export default function ContactPage(){
         <div className="max-w-7xl mx-auto px-6 lg:px-10">
           <AnimatedSection>
             <div className="rounded-xl overflow-hidden border border-black-4" style={{height:'360px'}}>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126743.97694440673!2d79.80815085!3d7.2083426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2ef2a6bc4af5b%3A0x2b62e50ce0dfab9e!2sNegombo%2C%20Sri%20Lanka!5e0!3m2!1sen!2s!4v1700000000000"
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126743.97694440673!2d79.80815085!3d7.2083426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2ef2a6bc4af5b%3A0x2b62e50ce0dfab9e!2sAkuressa%2C%20Sri%20Lanka!5e0!3m2!1sen!2s!4v1700000000000"
                 width="100%" height="100%" style={{border:0,filter:'grayscale(1) invert(0.9) hue-rotate(180deg)'}}
                 allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="King Lion Gym"/>
             </div>

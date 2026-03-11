@@ -49,7 +49,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="font-bebas text-white text-xl tracking-[0.12em]">King Lion Gym</div>
-                <div className="text-red-DEFAULT text-[8px] tracking-[0.3em] uppercase font-bold">Negombo · Sri Lanka</div>
+                <div className="text-red-DEFAULT text-[8px] tracking-[0.3em] uppercase font-bold">Akuressa · Sri Lanka</div>
               </div>
             </Link>
             <p className="text-soft text-sm leading-relaxed font-medium max-w-xs mb-6">
@@ -57,7 +57,7 @@ export default function Footer() {
             </p>
             <div className="space-y-2 mb-6">
               {[
-                [HiOutlineLocationMarker, 'Negombo, Western Province, Sri Lanka'],
+                [HiOutlineLocationMarker, 'Akuressa, Southern Province, Sri Lanka'],
                 [HiOutlinePhone, '+94 XX XXX XXXX'],
                 [HiOutlineMail, 'info@kingliongym.lk'],
               ].map(([Icon, text], i) => (
@@ -133,7 +133,7 @@ export default function Footer() {
             © {new Date().getFullYear()} King Lion Gym · All Rights Reserved
           </p>
           <p className="text-ghost text-xs font-semibold flex items-center gap-1.5">
-            <span className="w-1 h-1 rounded-full bg-red-DEFAULT" />Built for Champions · Negombo, Sri Lanka
+            <span className="w-1 h-1 rounded-full bg-red-DEFAULT" />Built for Champions · Akuressa, Sri Lanka
           </p>
         </div>
       </div>
