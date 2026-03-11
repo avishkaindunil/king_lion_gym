@@ -44,7 +44,7 @@ export default function AboutPage(){
                 SRI LANKA'S<br/><span className="text-red-gradient">FINEST GYM</span>
               </h2>
               <p className="text-soft font-medium leading-relaxed mb-5 text-[15px]">
-                Located in the heart of Negombo, Western Province, King Lion Gym was founded on a powerful belief — every person deserves access to world-class fitness and expert guidance. We refuse to compromise on quality.
+                Located in the heart of Akuressa, Western Province, King Lion Gym was founded on a powerful belief — every person deserves access to world-class fitness and expert guidance. We refuse to compromise on quality.
               </p>
               <p className="text-soft font-medium leading-relaxed mb-8 text-[15px]">
                 Our facility features premium Hammer Strength equipment — the same machines used by professional athletes worldwide. From signature red machines to motivational murals of legendary champions, every element is designed to inspire peak performance.
@@ -148,7 +148,7 @@ export default function AboutPage(){
           <h2 className="font-bebas text-5xl md:text-6xl text-white tracking-wide mb-6 leading-tight">
             "OUR MISSION IS TO BUILD <span className="text-red-gradient">CHAMPIONS</span> — IN THE GYM AND BEYOND"
           </h2>
-          <p className="text-ghost font-semibold mb-10 text-sm tracking-wider uppercase">— King Lion Gym, Negombo, Sri Lanka</p>
+          <p className="text-ghost font-semibold mb-10 text-sm tracking-wider uppercase">— King Lion Gym, Akuressa, Sri Lanka</p>
           <Link href="/register">
             <motion.button whileHover={{scale:1.03}} className="btn-primary px-10 py-4 text-xs tracking-widest flex items-center gap-2 mx-auto">
               Join Our Family <FiArrowUpRight size={14}/>
